@@ -7,7 +7,7 @@
   <artifactId>sonarscanner-maven-basic</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>Example of the basics Maven project</name>
+  <name>Example of the basic Maven project</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
